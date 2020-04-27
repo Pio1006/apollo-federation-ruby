@@ -1,3 +1,17 @@
+## [1.0.4](https://github.com/Gusto/apollo-federation-ruby/compare/v1.0.3...v1.0.4) (2020-04-06)
+
+
+### Bug Fixes
+
+* Fix spec to account for breaking change to graphql-ruby 1.10.0 ([#62](https://github.com/Gusto/apollo-federation-ruby/issues/62)) ([a631441](https://github.com/Gusto/apollo-federation-ruby/commit/a631441))
+
+## [1.0.3](https://github.com/Gusto/apollo-federation-ruby/compare/v1.0.2...v1.0.3) (2020-03-25)
+
+
+### Bug Fixes
+
+* Make the tracer work with the new interpreter runtime ([#59](https://github.com/Gusto/apollo-federation-ruby/issues/59)) ([de4caf0](https://github.com/Gusto/apollo-federation-ruby/commit/de4caf0))
+
 ## [1.0.2](https://github.com/Gusto/apollo-federation-ruby/compare/v1.0.1...v1.0.2) (2020-02-19)
 
 
